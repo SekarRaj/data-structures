@@ -1,0 +1,1 @@
+	Tree data structure that satisfies heap property i.e. in min heap the parent node is always minimum than the child nodes.
